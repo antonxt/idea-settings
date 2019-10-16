@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="twigkit" type="Bash" />
-      <mapping ext="less" type="CSS" />
-    </extensionMap>
-  </component>
-</application>
